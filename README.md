@@ -1,4 +1,4 @@
-# stocks-market-interactive-dashboard
+# Stocks Market Interactive Dashboard
 
 
 ![Dashboard Screenshot](stocks.png)
@@ -10,3 +10,7 @@
 
 ## Tech Stack
 - Python 3, Dash, Plotly, Pandas, Dash Bootstrap Components
+
+
+## Data Requirements
+-Date,Open,High,Low,Close,Adj Close,Volume
